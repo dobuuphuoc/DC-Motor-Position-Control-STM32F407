@@ -86,21 +86,21 @@ The embedded firmware runs inside a 10 ms control loop using a Finite State Mach
   </tr>
   <tr>
     <td><img src="Result/Hardware Prototype.png" width="100%"></td>
-    <td><img src="Result/Real-time Telemetry Data - Target.png" width="100%"></td>
+    <td><img src="Result/Real-time Telemetry Data - Target..png" width="100%"></td>
   </tr>
   <tr>
     <td align="center"><b>Actual Encoder Position</b></td>
     <td align="center"><b>Bidirectional PWM Output</b></td>
   </tr>
   <tr>
-    <td><img src="Result/Real-time Telemetry Data - Encoder.png" width="100%"></td>
-    <td><img src="Result/Real-time Telemetry Data - PWM.png" width="100%"></td>
+    <td><img src="Result/Real-time Telemetry Data - Encoder..png" width="100%"></td>
+    <td><img src="Result/Real-time Telemetry Data - PWM..png" width="100%"></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><b>Transient Position Error</b></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="Result/Real-time Telemetry Data - Error.png" width="60%"></td>
+    <td colspan="2" align="center"><img src="Result/Real-time Telemetry Data - Error..png" width="60%"></td>
   </tr>
 </table>
 

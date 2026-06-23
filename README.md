@@ -66,7 +66,7 @@ Automated optimization was conducted via MATLAB's `pidtune()`, then manually adj
 The optimized PID parameters yielded a **49% faster settling time** compared to manual tuning (reduced from 3.73s to 1.90s):
 
 <p align="center">
-  <img src="Result/Manual vs. Optimized PID Resp....png" alt="Manual vs Optimized PID" width="80%">
+  <img src="Result/Manual vs. Optimized PID Response.png" alt="Manual vs Optimized PID" width="80%">
 </p>
 
 ---
@@ -86,21 +86,21 @@ The embedded firmware runs inside a 10 ms control loop using a Finite State Mach
   </tr>
   <tr>
     <td><img src="Result/Hardware Prototype.png" width="100%"></td>
-    <td><img src="Result/Real-time Telemetry Data - Targ....png" width="100%"></td>
+    <td><img src="Result/Real-time Telemetry Data - Target.png" width="100%"></td>
   </tr>
   <tr>
     <td align="center"><b>Actual Encoder Position</b></td>
     <td align="center"><b>Bidirectional PWM Output</b></td>
   </tr>
   <tr>
-    <td><img src="Result/Real-time Telemetry Data - Enco....png" width="100%"></td>
-    <td><img src="Result/Real-time Telemetry Data - PW....png" width="100%"></td>
+    <td><img src="Result/Real-time Telemetry Data - Encoder.png" width="100%"></td>
+    <td><img src="Result/Real-time Telemetry Data - PWM.png" width="100%"></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><b>Transient Position Error</b></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="Result/Real-time Telemetry Data - Error....png" width="60%"></td>
+    <td colspan="2" align="center"><img src="Result/Real-time Telemetry Data - Error.png" width="60%"></td>
   </tr>
 </table>
 
